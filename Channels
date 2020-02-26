@@ -45,6 +45,9 @@ https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="LATIN AMERICA",HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
 http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
  
@@ -93,12 +96,6 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 #EXTINF:-1 tvg-logo="https://s-media-cache-ak0.pinimg.com/originals/bd/bd/d8/bdbdd86c306e0105d2e0564f0ae60d10.png" group-title="LABEL",~ USA TV ~
 http://www.lengua.com/anthems/USA.mp3
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4TEMhxH.png" group-title="USA",30A TV
-http://30a-tv.com/my999.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gNWg9tl.png" group-title="USA",30A Music
 http://30a-tv.com/music.m3u8?fluxustv.m3u8
 
@@ -125,9 +122,6 @@ https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" group-title="USA",Buzzr
-https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Wd4xnGt.png" group-title="USA",C-SPAN
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8?fluxustv.m3u8
@@ -270,6 +264,12 @@ http://reflect-live-champaign.cablecast.tv/live/CELL-296k-234p/CELL-296k-234p.m3
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WrBz2L6.png" group-title="USA PUBLIC",Chandler Channel
 https://granicusliveus5-a.akamaihd.net/chandleraz/G0987_002/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxEzPeX.png" group-title="USA PUBLIC",Connecticut Network
+http://video.ct-n.com/live/ctnstream/chunklist_w1534354198_DVR.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxEzPeX.png" group-title="USA PUBLIC",Connecticut Network (Court Feed)
+http://video.ct-n.com/live/ctnSupreme/chunklist_w538335829_DVR.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UxEzPeX.png" group-title="USA PUBLIC",Connecticut Network (Instant)
 http://video.ct-n.com/live/ctnspare/chunklist_w252238746_DVR.m3u8
@@ -701,9 +701,6 @@ http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vXoNEwI.png" group-title="UK",Bravo (New!)
-http://43.224.120.99:8080/four/four_1000k.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="UK",BritCom (New!)
 https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
 
@@ -727,9 +724,6 @@ http://livefr.cgtn.com/1000d/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="UK",CNBC Europe
 http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="UK",Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eD8zkhY.png" group-title="UK",Cruise1st TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8?fluxustv.m3u8
@@ -782,9 +776,6 @@ http://live-isd.simplestreamcdn.com/idealworld/2/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iz3YpQ1.png" group-title="UK",Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HKyWKar.png" group-title="UK",Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSsEopD.png" group-title="UK",Kapang TV (Opt-1)
 http://streamingserver001.viewtvgroup.com:80/kapanglocal-playout-master/tracks-v1a1/mono.m3u8?fluxustv.m3u8
  
@@ -793,9 +784,6 @@ http://streamingserver001.viewtvgroup.com:80/kapanglocal-playout-master/index.m3
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eSsEopD.png" group-title="UK",Kapang TV (Opt-3)
 https://streamingserver003.viewtvgroup.com:443/kapanglocal-playout-master/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="UK",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NseE3Q3.png" group-title="UK",Mafa Shortfilm (Opt-1)
 https://1043115116.rsc.cdn77.org/LS-PRG-54819-1/index.m3u8
@@ -839,9 +827,6 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC Extra
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxfXXlb.png" group-title="UK",Reuters
-http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IlSYKSK.png" group-title="UK",Sheffield Live! 93.2 FM
 http://tv.sheffieldlive.org/hls/main.m3u8
 
@@ -878,14 +863,8 @@ https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyXGOYy.png" group-title="UK",The Jewellery Channel
-https://live-tjc.simplestreamcdn.com/tjc_sdi1/2/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1EwXIh.png" group-title="UK",View TV Berkshire
 https://streamingserver001.viewtvgroup.com/local-test2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YKI00DM.png" group-title="UK",Vintage Music
-https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f2YA7mD.png" group-title="UK",VoxAfrica UK
 http://109.231.229.37:3401/voxafuk/voxafhlsout/chunklist_w985073329.m3u8?fluxustv.m3u8
