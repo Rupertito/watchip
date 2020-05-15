@@ -1,14 +1,49 @@
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 YOUTUBE ENGLISH",DW News
+https://www.youtube.com/watch?v=NvqKZHpKs-g
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 YOUTUBE ENGLISH",France 24 Spanish
+https://https://youtu.be/TqOubH148_0
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 YOUTUBE ENGLISH",France 24
+https://www.youtube.com/watch?v=6N0lbZr_wXs
+ 
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ENGLISH",RT
+https://www.youtube.com/watch?v=NvCSr7qzAAM
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 YOUTUBE ENGLISH",Sky News
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
+http://45.126.83.51/uq2663/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
+http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
+http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
+http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP)
 http://45.126.83.51/uq2663/h/h23/index.m3u8
@@ -16,29 +51,43 @@ http://45.126.83.51/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
+https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
+http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
+https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qev72Gl.png" group-title="USA LOCAL",Los Angeles: CBS News
-https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-1)
-http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AAN2Qyu.png" group-title="LATIN AMERICA",HispanTV
+https://5a61de8ed719d.streamlock.net/live/smil:live.smil/chunklist_w1441489711_b394100_slen.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="LATIN AMERICA",DW Español
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-2)
+http://livefr.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bzICwYY.png" group-title="DOMINICAN REPUBLIC",Canal del Sol 65
-http://canaldelsol01.streamprolive.com/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (Opt-1)
+http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u2i5YHQ.png" group-title="HONDURAS",Canal 11
-http://181.189.225.36:9100/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (Opt-2)
+http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (SD)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (HD)
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7YTIB6.png" group-title="HONDURAS",Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
