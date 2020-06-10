@@ -66,12 +66,6 @@ https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
-https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51TCi1U.png" group-title="COLOMBIA",Cablenoticias
-http://181.198.153.175:5006/play/a073/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
 
@@ -99,33 +93,11 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (HD)
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
  
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/watch/news/sky-news-extra-colour.PNG" group-title="AUSTRALIA",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 YOUTUBE ESPAÑOL",DW (DE)
-https://www.youtube.com/watch?v=6B8n7o699uM
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9GqeH2.png" group-title="24/7 YOUTUBE ESPAÑOL",Milenio (MX)
-https://www.youtube.com/watch?v=I8JjPst6mz4
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A0ySElR.png" group-title="24/7 YOUTUBE ESPAÑOL",NTN24 (VE)
-https://www.youtube.com/watch?v=ZLWzGxwBAB0
- 
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ESPAÑOL",RT (RU) (Opt-1)
 https://www.youtube.com/watch?v=mOcEqTR1Hn4
  
 #EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 YOUTUBE ESPAÑOL",RT (RU) (Opt-2)
 https://www.youtube.com/watch?v=9DXGrOU5wKQ
-
-#EXTINF:-1 tvg-logo="https://cdn.brainpop.com/socialstudies/hispanicheritage/latinmusic/icon.png" group-title="LABEL",~ Latin America TV ~
-http://50.7.56.2:8016
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GEUzSd4.png" group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
@@ -163,57 +135,17 @@ http://aztkhlslive-i.akamaihd.net/hls/live/572724/az7/master.m3u8
 http://aztkhlslive2-i.akamaihd.net/hls/live/629424/azuno/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZjBBIJE.png" group-title="MEXICO",Azteca Uno (Opt-2)
-https://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
-
+ttps://pubads.g.doubleclick.net/ssai/event/asXufUKSSKisiLSMHR2BXA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV
 http://api.new.livestream.com/accounts/27228685/events/8710465/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eKb3st9.png" group-title="ECUADOR",Ecuador TV Int.
-http://api.new.livestream.com/accounts/27228685/events/8710503/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-1)
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-2)
-http://elcanaldelfutbol.com/static/wowza/test/hls/20001/720p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aCUFqgc.png" group-title="ECUADOR",Ecuavisa (Opt-3)
-http://181.198.153.175:5001/play/a03s/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/if6yIsv.png" group-title="ECUADOR",Canal Uno
-http://181.198.153.175:5001/play/a04i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7CKywGU.png" group-title="ECUADOR",Canela TV
 http://inliveserver.com:1935/8074/8074/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UOz8p3p.png" group-title="ECUADOR",CNT
-http://181.198.153.175:5001/play/a04q/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/frGquQc.png" group-title="ECUADOR",Hechos TV
 http://37.187.7.106/hechostv/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cwaY0HP.png" group-title="ECUADOR",Oromar TV
-http://181.198.153.175:5001/play/a03r/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rts_logo.png/150px-Rts_logo.png" group-title="ECUADOR",RTS
-http://d36zvzlneynve1.cloudfront.net/liverts/smil:liverts.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/avUtmDH.png" group-title="ECUADOR",TC TV
-http://181.198.153.175:5001/play/a03o/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="ECUADOR",Teleamazonas
-http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rs6CmZf.png" group-title="ECUADOR",Telecuenca
-http://api.new.livestream.com/accounts/280758/events/8705297/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2icSc6x.png" group-title="ECUADOR",TV Manabita
-http://europa.tucableip.com:8181/tvmanabita/live/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-ViW8yN7Lbhw/WQga_AXP1bI/AAAAAAAACbo/s4c8pm9trnQIMqPF4X0p1V_NF3YU1CkoACLcB/s640/TVC1.png" group-title="ECUADOR",TVC
-http://d2dn7ylrd9r3ds.cloudfront.net/liverts/televicentro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/otOhIe8.png" group-title="ECUADOR",UCSG (Opt-1)
 http://ecuastream.net:1935/UCSGHQ/UCSGHQ/playlist.m3u8
@@ -224,47 +156,18 @@ http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRZN7Tn.png" group-title="COLOMBIA",Cali TV
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4DqwBlp.png" group-title="COLOMBIA",Canal 13
-https://cdn.logicideas.media/canaltrece-live/smil:canal13.smil/chunklist_b4500000.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eTxZUo6.png" group-title="COLOMBIA",Canal Capital
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3c5TIR.png" group-title="COLOMBIA",Canal CNC Medellin
-http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hjc7XaY.png" group-title="COLOMBIA",Canal CNC Pasto
-http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zb7kpqt.png" group-title="COLOMBIA",Canal Doce
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i0K5PSH.png" group-title="COLOMBIA",Caracol
-http://181.198.153.175:5005/play/a060/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IqwMbTz.png" group-title="COLOMBIA",CityTV
-http://181.198.153.175:5007/play/a09s/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/S3oXZHo.png" group-title="COLOMBIA",Cosmovision
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/osBE0Et.png" group-title="COLOMBIA",CTV Barranquilla
-http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/stQQgsQ.png" group-title="COLOMBIA",La Super TV
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lL3TbW6.png" group-title="COLOMBIA",Multicanal TV
-https://bozztv.com/36bay2/gin/giniko_multicanaltv_1200kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CREs19T.png" group-title="COLOMBIA",Mundo Mas
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EendU9p.png" group-title="COLOMBIA",Ntv Canal
 https://5c21f7ec1999d.streamlock.net/8038/8038/chunklist_w1940275753.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NCqfXuX.png" group-title="COLOMBIA",Ranchenato TV
-http://66.240.236.25:1936/ranchenato/smil:ranchenato.smil/chunklist_b1044100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-1)
 https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
@@ -272,136 +175,11 @@ https://rcnhd.cdn.net.co/live01/rcnhd.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dVqYLUF.png" group-title="COLOMBIA",RCN (Opt-2)
 https://rcnhd.cdn.net.co/live02/rcnhd2.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vVBz2v6.png" group-title="COLOMBIA",Red Mas
-http://infored.lcdn.claro.net.co/Content/hls_clear/live/Channel(REDTVHD)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EOc43O7.png" group-title="COLOMBIA",Señal Colombia
-http://181.198.153.175:5006/play/a05j/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tqTHA.png" group-title="COLOMBIA",Son Popular
-http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/popular.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6d2fOjq.png" group-title="COLOMBIA",Suram TV
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/29DQNPy.png" group-title="COLOMBIA",Tele Medellin
-http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OAiQxyb.png" group-title="COLOMBIA",Teleantioquia
-http://api.new.livestream.com/accounts/9427524/events/8459038/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Vur40zl.png" group-title="COLOMBIA",Telecafe
 http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R2Xb44n.png" group-title="COLOMBIA",Telecaribe
 https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/93KWYKj.png" group-title="COLOMBIA",Teleenvigado
-http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PAVd3LS.png" group-title="COLOMBIA",Teleislas (Opt-1)
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PAVd3LS.png" group-title="COLOMBIA",Teleislas (Opt-2)
-http://vbox2.cehis.net/live-teleislas/_definst_/mp4:teleislas/chunklist_w1846604063.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q8UqwhM.png" group-title="COLOMBIA",Telepacifico
-https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BSLKD8e.png" group-title="COLOMBIA",TV Regional del Oriente
-http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BeF08XL.png" group-title="COLOMBIA",UAO Play +
-https://live-edge-sxb-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-1500/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NJIk7uz.png" group-title="COLOMBIA",Win Sports
-http://181.198.153.175:5005/play/a06g/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPPlwWt.png" group-title="PERU",America TV
-https://ecdn-mediastream.cdn.mdstrm.com/live-stream-secure/5c51e67df4d3c6698b02bbee/publish/media_2500.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Efu5mUQ.png" group-title="PERU",Antares TV
-http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FQYDb15.png" group-title="PERU",BHTV (Opt-1)
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FQYDb15.png" group-title="PERU",BHTV (Opt-2)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FQYDb15.png" group-title="PERU",BHTV (Opt-3)
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oWya6SB.png" group-title="PERU",Central TV
-http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ibCPO5D.png" group-title="PERU",CTC TV Cusco
-http://livestreamingperu.com:1935/ctctv/ctctv/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvoNi6F.png" group-title="PERU",Cultura 24 (Opt-1)
-http://vs8.live.opencaster.com/cultura24/smil:cultura24/chunklist_w1710773429_b564000_sles.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cvoNi6F.png" group-title="PERU",Cultura 24 (Opt-2)
-http://vs8.live.opencaster.com/cultura24/_definst_/mp4:cultura24_480/chunklist_w1999901240.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G3TWuRE.png" group-title="PERU",GolPeru
-http://181.198.153.175:5007/play/a0ak/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r0qgVTI.png" group-title="PERU",Hechicera TV
-http://167.114.116.212:1935/tv506/hechicera/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/E0w684H.png" group-title="PERU",Hostream Peru
-http://media1.cdnlayer.biz:1935/8174/8174/chunklist_w1951514187.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sUdPsMZ.png" group-title="PERU",IPe
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lW685Bo.png" group-title="PERU",Mega TV Araquipa
-http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VFCEPgF.png" group-title="PERU",Monterrico TV
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/NGYffIA.png" group-title="PERU",Ovacion
-http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4NiVS6e.png" group-title="PERU",Panamericana TV
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qz2R7ca.png" group-title="PERU",Retro Plus TV
-https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/21ukxts.png" group-title="PERU",RBC TV 
-http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3iQCAl.png" group-title="PERU",Sol TV
-http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tzckTA4.png" group-title="PERU",Top Latino TV
-http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/50TYb45.png" group-title="PERU",TV Peru (Opt-1)
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/50TYb45.png" group-title="PERU",TV Peru (Opt-2)
-http://cdnh4.iblups.com/hls/irtp.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0THQOZn.png" group-title="PERU",TVPeru Noticias
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/quq1jnL.png" group-title="PERU",Willax
-http://api.new.livestream.com/accounts/26619010/events/7987650/live.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lC0uliW.png" group-title="COSTA RICA",Anexion TV 36
@@ -410,8 +188,6 @@ http://rtmp.info:8081/anexiontv/envivo/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/juukQO4.png" group-title="COSTA RICA",Canal UCR
 http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Da5V8bP.png" group-title="COSTA RICA",Colosal TV
-http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6QgGvH7.png" group-title="COSTA RICA",Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -618,28 +394,24 @@ http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_7.smil/chunklist_b1155072.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/tn23-mediano.png" group-title="GUATEMALA",TN23
 http://d3no10dikm8m8e.cloudfront.net/gt/smil:canal_23.smil/chunklist_b1155072.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oZpbyy5.png" group-title="PANAMA",Panavision
-http://vcp1.myplaytv.com:1935/panavision/panavision/chunklist_w2101755274.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SsSLnJC.png" group-title="PANAMA",SerTV
 https://accionastream.com/live/sertv/chunklist_w1815341125.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OWGPrme.png" group-title="HONDURAS",Azteca Honduras
-http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u2i5YHQ.png" group-title="HONDURAS",Canal 11
 http://181.189.225.36:9100/play/a00c/index.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qzGYOCp.png" group-title="HONDURAS",Cholusat Sur 36
 http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pje1GWN.png" group-title="HONDURAS",CHTV
-http://181.189.225.36:9100/play/a00a/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="HONDURAS",Q'hubo TV
+http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKPY0s8.png" group-title="HONDURAS",RTV
+http://181.189.225.36:9100/play/a00h/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C7YTIB6.png" group-title="HONDURAS",Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w330137931_b1848000.m3u8
@@ -647,8 +419,6 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w33013793
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RrnQlQg.png" group-title="HONDURAS",SiTV
 http://st2.worldkast.com/8030/8030/chunklist_w246409275.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ze1unA5.png" group-title="HONDURAS",Telecadena 7/4
-https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/master.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FwcwAJ7.png" group-title="HONDURAS",Teleceiba Canal 7
 http://190.11.224.14:8134/liveevent.m3u8
@@ -659,67 +429,36 @@ http://181.189.225.36:9100/play/a00e/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4kplu7b.png" group-title="HONDURAS",TEN Canal 10
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuvGwOg.png" group-title="HONDURAS",Todo Deportes TV
-http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/dq5GcLH.png" group-title="HONDURAS",TSi
 https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PVUfsC2.png" group-title="HONDURAS",Une TV
 http://181.189.225.36:9100/play/a00i/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rRXm5nY.png" group-title="HONDURAS",UTV UNAH
-https://live-utv.unah.edu.hn/web/salida.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2AMNLa6.png" group-title="BOLIVIA",Mega TV
-http://hdp2.imd.la:1935/megatv/megatv/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/wyAId2p.png" group-title="BOLIVIA",Palenque TV
-http://www.channel.tevemi.com:1935/PalenqueTv/PalenqueTv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT La Paz
-http://192.99.38.174:1935/patbolivia/patlapaz/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o4i8izz.png" group-title="BOLIVIA",Red PAT Santa Cruz
-http://192.99.38.174:1935/patbolivia/patsantacruz/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dWtxNYu.png" group-title="BOLIVIA",Red Uno
-http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ytPJLHE.png" group-title="BOLIVIA",RTP
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/Kf27Wfl.png" group-title="BOLIVIA",TV OFF Travel
-http://www.channel.tevemi.com:1935/TvOff/TvOff/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/89906hn.png" group-title="BOLIVIA",Unitel
-http://136.243.3.70:1935/Unitel/Unitel/chunklist_w1949818179_DVR.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MUSICA",Frecuencia Musical (Opt-1)
 https://595b85410a151.streamlock.net:443/8056/8056/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="LATIN AMERICA",Frecuencia Musical (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kV5t7Dg.png" group-title="MUSICA",Frecuencia Musical (Opt-2)
 http://streaminglivehd.com:1935/8056/8056/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="LATIN AMERICA",Latido Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/woRgqEh.png" group-title="MUSICA",Latido Music
 https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="LATIN AMERICA",Telemusica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fyPHgEH.png" group-title="MUSICA",Telemusica
 http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wZLK2SW.png" group-title="PERU",Vision TV Musica
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZLK2SW.png" group-title="MUSICA",Vision TV Musica
 http://v8.ciclano.io:1935/visionmusica/_definst_/visionmusica/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx7sVqb.png" group-title="DOMINICAN REPUBLIC",Super TV 55
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nx7sVqb.png" group-title="MUSICA",Super TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vAUFiwm.png" group-title="HONDURAS",Q'hubo TV
-http://st2.worldkast.com/8030/8030/chunklist_w278915523.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CKPY0s8.png" group-title="HONDURAS",RTV
-http://181.189.225.36:9100/play/a00h/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Da5V8bP.png" group-title="MUSICA",Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
 
